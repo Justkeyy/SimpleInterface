@@ -1,0 +1,2 @@
+QComboBox,QPushButton{background-color:bisque;color:blue}
+QFrame{background-color:bisque}
